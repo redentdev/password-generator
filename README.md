@@ -2,7 +2,7 @@
 
 You can take a look at the example below.
 
-```js
+```sh
 $ python password.py
 QjoKzDLt9n
 ```
